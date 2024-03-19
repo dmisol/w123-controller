@@ -1,0 +1,23 @@
+io   display
+17   D7
+18   D6
+4   D5
+5   D4
+6   D3
+7   D2
+8   D1
+9   D0
+
+
+10  A0
+11  A1
+12  A2        12  /WR /CE
+13  A3        D13 A2
+14  A4
+
+15  /FL
+16  /WR /CE
+
+to display chars, 
+FL = 1 (as well as A3, A4 )
+
